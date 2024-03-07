@@ -10,12 +10,11 @@
                     <a href="#" class="text-sm font-semibold text-gray-900">Contattaci <span aria-hidden="true">&rarr;</span></a>
                 </div>
             </div>
-            <div class="mx-auto grid w-full max-w-xl grid-cols-2 items-center gap-y-12 sm:gap-y-14 lg:mx-0 lg:max-w-none lg:pl-8">
-                <x-svg.ict class="max-h-12 w-full object-contain object-left" width="105" height="48"/>
+            <div class="mx-auto grid w-full max-w-xl grid-cols-3 gap-20 items-center gap-y-12 sm:gap-y-14 lg:mx-0 lg:pl-8_">
+                <x-svg.ict class="max-h-12 w-full object-contain object-center" width="105" height="48"/>
+                <x-svg.tunca class="max-h-12 w-full object-contain object-center" width="105" height="48"/>
+                <x-svg.logo-ariadne class="max-h-12 w-full object-contain object-center" width="105" height="48"/>
 
-                <x-svg.tunca class="max-h-12 w-full object-contain object-left" width="105" height="48"/>
-
-                <img class="max-h-12 w-full object-contain object-left" src="https://tailwindui.com/img/logos/savvycal-logo-gray-900.svg_" alt="Ariadne" width="140" height="48">
             </div>
         </div>
     </div>
