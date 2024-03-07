@@ -9,8 +9,8 @@
             </div>
         </div>
         <div class="text-center">
-            <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Ecommerce di eccellenza con Shopify</h1>
-            <p class="mt-6 text-lg leading-8 text-gray-600">Colibrì è un gruppo di agenzie italiane ed opera come centro di eccellenza per Shopify su progetti enterprise.</p>
+            <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Centro di eccellenza Shopify italiano</h1>
+            <p class="mt-6 text-lg leading-8 text-gray-600">Colibrì è un gruppo di agenzie italiane ed opera come <i>centro di eccellenza</i> per Shopify su progetti enterprise e mid-market.</p>
             <div class="mt-10 flex items-center justify-center gap-x-6">
                 <a href="#" class="rounded-md bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-gray-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Contattaci</a>
                 <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Scopri di più <span aria-hidden="true">→</span></a>
