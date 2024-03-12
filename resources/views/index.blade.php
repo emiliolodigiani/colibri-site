@@ -53,5 +53,6 @@
     </x-sections.testimonial-overlapping-image>
 
 
+    <x-sections.loghi-clienti/>
 
 </x-test-layout>
