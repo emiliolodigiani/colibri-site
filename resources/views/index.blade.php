@@ -20,7 +20,7 @@
     <!-- Testimonial section -->
 
     <x-sections.testimonial-overlapping-image
-        image-url="{{asset('/img/EAL_square_mezzo-busto_1200.jpg')}}"
+        image-url="{{asset('storage/img/EAL_square_mezzo-busto_1200.jpg')}}"
         name="Emilio Lodigiani" role="CEO @ Tunca, membro di Colibrì" :reverse="true"
         class="pb-16 pt-24 sm:pb-24 sm:pt-32 xl:pb-32">
         Colibrì è per Tunca la condivisione di una progetto comune: trasformare le sfide dell'eCommerce in successi tangibili per i nostri clienti.
@@ -33,7 +33,7 @@
     <x-sections.sedi class="bg-gradient-to-tr from-gray-200 pb-32 sm:pb-32 pt-24"/>
 
     <x-sections.testimonial-overlapping-image
-        image-url="{{asset('/img/fracasso-linkedin.jpeg')}}"
+        image-url="{{asset('storage/img/fracasso-linkedin.jpeg')}}"
         name="Giovanni Fracasso" role="CTO @ ICT Sviluppo, membro di Colibrì" :reverse="false"
         class="pb-16 pt-24_ sm:pb-24 sm:pt-32_ xl:pb-32">
         L'eccellenza tecnica e la nostra profonda conoscenza di Shopify sono il cuore del nostro lavoro in ICT Sviluppo.
@@ -45,7 +45,7 @@
     <x-sections.cta />
 
     <x-sections.testimonial-overlapping-image
-        image-url="{{asset('/img/ricotti-linkedin.jpeg')}}"
+        image-url="{{asset('storage/img/ricotti-linkedin.jpeg')}}"
         name="Marcello Ricotti" role="CTO @ Ariadne Group, membro di Colibrì" :reverse="true"
         class="pb-16 pt-24 sm:pb-24 sm:pt-32 xl:pb-32">
         Nei progetti complessi, la chiave del successo risiede nella capacità di ascolto, nell'assistenza precisa e in un team esteso che lavora all'unisono.
