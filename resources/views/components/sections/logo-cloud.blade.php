@@ -9,8 +9,8 @@
     </div>
     <div class="mt-16 flex justify-center">
         <p class="relative rounded-full px-4 py-1.5 text-sm leading-6 text-gray-600 ring-1 ring-inset ring-gray-900/10 hover:ring-gray-900/20">
-            <span class="hidden md:inline">Qui potrebbe esserci il link a un caso di studio che dimostra la competenza.</span>
-            <a href="#" class="font-semibold text-indigo-600"><span class="absolute inset-0" aria-hidden="true"></span> Leggi il caso di studio <span aria-hidden="true">&rarr;</span></a>
+            <span class="hidden md:inline">Esperienza utente e human centered design per l'Università Statale di Milano.</span>
+            <a href="https://www.ariadnegroup.it/blog/esperienza-utente-e-human-centered-design-il-caso-delluniversita-di-milano/" target="_blank" class="font-semibold text-indigo-600"><span class="absolute inset-0" aria-hidden="true"></span> Leggi il caso di studio <span aria-hidden="true">&rarr;</span></a>
         </p>
     </div>
 </div>

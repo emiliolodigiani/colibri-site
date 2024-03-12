@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@layer components {
+    .markdown {
+        p {
+            @apply mt-6;
+        }
+        h3 {
+            @apply text-2xl mt-6 font-bold tracking-tight text-gray-900;
+        }
+        h4 {
+            @apply text-xl mt-6 font-bold tracking-tight text-gray-900;
+        }
+    }
+}

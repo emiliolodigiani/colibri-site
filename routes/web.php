@@ -17,6 +17,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+Route::view('contatti', 'contatti');
 Route::get('articoli/{slug}', function($slug){
     if (View::exists("articoli.$slug")) {
         return view("articoli.$slug");

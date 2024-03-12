@@ -12,7 +12,7 @@
             <x-svg.icona-tunca class="h-12 w-auto"  />
             <figure>
                 <blockquote class="mt-6 text-lg font-semibold text-white sm:text-xl sm:leading-8">
-                    <p>“Unire le forze con Colibrì rappresenta per Tunca non solo un'opportunità di crescita, ma anche la condivisione di una visione comune: trasformare le sfide dell'eCommerce in successi tangibili per i nostri clienti. La nostra expertise in Shopify e la passione per l'innovazione sono il cuore del nostro contributo al gruppo, permettendoci di elevare gli standard e offrire soluzioni su misura che anticipano le esigenze del mercato. Insieme, stiamo scrivendo il futuro dell'eCommerce in Italia.”</p>
+                    <p>“{{ $slot }}”</p>
                 </blockquote>
                 <figcaption class="mt-6 text-base text-white">
                     <div class="font-semibold">Emilio Lodigiani</div>
