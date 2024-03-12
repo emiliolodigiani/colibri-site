@@ -17,6 +17,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+Route::get('articoli/{slug}', function($slug){
+    if (View::exists("articoli.$slug")) {
+        return view("articoli.$slug");
+    }
+    abort(404, "L'articolo richiesto non è stato trovato...");
+});
 
 Route::get('/dashboard', function () {
     return view('dashboard');
